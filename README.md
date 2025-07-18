@@ -58,3 +58,14 @@ Analyze transactional sales data from Amazon’s branches in **Mandalay**, **Yan
 - 💳 **E-wallet** was the most commonly used payment method.
 - 🧍♀️ Customers of type **Member** brought in the highest revenue.
 - 📅 Sales and ratings spiked during **January** — useful for campaign planning!
+
+🏁 Outcome & Learning
+This project helped me:
+•	Strengthen SQL querying skills with GROUP BY, CASE, JOINS, DATE functions, and aggregation
+•	Perform real-world feature engineering and trend analysis
+•	Deliver data-driven business insights using structured query language
+
+🔗 Connect with Me
+If you liked this project or have feedback, feel free to reach out or connect!
+🔗 http://www.linkedin.com/in/vsirishaofficial| ✉️ sirishavemula25@gmail.com 
+
